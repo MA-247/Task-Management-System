@@ -1,0 +1,44 @@
+body{
+    background-color : #F3EDC8;
+    padding : 0px;
+    margin : 0px;
+    
+}
+
+#home_page{
+    background-color: #EAD196;
+    padding-left: 150px;
+    padding-right: 50px;
+    padding-top: 25px;
+    width : 50%;
+    height: 500px;
+}
+
+#login_home_page{
+    background-color: #7D0A0A;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 25px;
+    width : 50%;
+}
+
+#header{
+    background-color: #7D0A0A;
+    width : 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-left: 50px;
+}
+
+#left_sidebar{
+    background-color: #7D0A0A;
+}
+
+
+
+
+#right_sidebar{
+    padding: 35px;
+    display: inline-block;
+    text-align: center;
+}
